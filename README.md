@@ -1,4 +1,4 @@
-# data92
+# Algo-study
 
   ## Member
   - Soyeon
